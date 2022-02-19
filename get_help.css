@@ -1,0 +1,201 @@
+body {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #FFFFFF;
+  font-family: Lucida;
+/* 
+  width: 100%;
+  padding: 5px; */
+}
+/* 
+#welcome {
+    margin-top: 5px;
+ 
+    margin: auto;
+
+    text-align: center;
+
+} */
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align:center;
+  max-width:800px;
+  min-width:200px;
+}
+
+/* #title {
+
+  margin-top: 5px;
+  max-width:800px;
+  margin: auto;
+  text-align: center;
+ 
+}
+ */
+#link {
+  text-align: center;
+/*   color: MediumSeaGreen; */
+  /*font-size: 20px;*/
+}
+
+
+
+/*green is the color for this page*/
+
+/* The sidebar menu */
+.sidebar {
+  height: 100%; /* 100% Full-height */
+  width: 0; /* 0 width - change this with JavaScript */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Stay on top */
+  top: 0;
+  left: 0;
+  background-color: MediumSeaGreen !important; /* Black*/
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 60px; /* Place content 60px from the top */
+  transition: 0.5s; /* 0.5 second transition effect to slide in the sidebar */
+}
+
+
+/* The sidebar links */
+.sidebar a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #FFFFFF !important;
+  display: block;
+  transition: 0.3s;
+}
+
+/* When you mouse over the navigation links, change their color */
+.sidebar a:hover {
+  color: LightGreen !important;
+}
+
+/* Position and style the close button (top right corner) */
+.sidebar .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+/* The button used to open the sidebar */
+.openbtn {
+  height:47px !important;
+  font-size: 20px;
+  cursor: pointer;
+  background-color: MediumSeaGreen !important;
+  color: White;
+  padding: 10px 15px;
+  border: none;
+  position: fixed;
+}
+
+
+.openbtn:hover {
+  background-color: LightGreen !important;
+}
+
+/* Style page content - use this if you want to push the page content to the right when you open the side navigation */
+#main {
+  transition: margin-left .5s; /* If you want a transition effect */
+  padding: 20px;
+}
+
+/* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+@media screen and (max-height: 450px) {
+  .sidebar {padding-top: 15px;}
+  .sidebar a {font-size: 18px;}
+}
+
+.banner {
+  position: absolute;
+  height: 400px;
+  top: -20px;
+  left: 0px;
+  right: 0px;
+  text-align: center;
+  opacity: 0.6;
+
+  max-width: 100%
+  margin: 0;
+  overflow:hidden;
+}
+
+ #pt {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  text-align: center;
+  border: 2px solid #47d147;
+  
+} 
+ 
+
+#instagram {
+/*   text-align: center; */
+/*   color: MediumSeaGreen; */
+
+  max-width: 600px;
+/*   margin: auto; */
+}
+
+#ptlink {
+  text-align: center;
+  margin:auto;
+  }
+/* 
+#talkspace {
+  text-align: center;
+  margin:auto;
+}
+ */
+
+#instagramicon {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  border: 2px solid #47d147;
+  
+
+}
+
+
+h1 {
+ color:ForestGreen !important;
+  font-size:45px;
+  margin:auto;
+  text-align:center;
+}
+
+h2 {
+  padding-top:20px;
+  color:MediumSeaGreen !important;
+  font-size:30px;
+margin:auto;
+  text-align:center;
+}
+
+h3 {
+/*   padding-top:30px; */
+  color:#70db70 !important;
+  font-size:24px;
+  margin:auto;
+  text-align:center;
+  font-weight:normal;
+}
+  
+#instagramdescription {
+  font-size:24px;
+  margin:auto;
+  text-align:center;
+  width:60%;
+}
+
