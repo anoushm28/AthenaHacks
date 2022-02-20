@@ -41,7 +41,7 @@
     background-position: center;
 
     margin: -70px -20 0 -20;
-    padding: 20% 0 0 0;
+    padding: 35% 0 0 0;
 }
 
 
@@ -132,14 +132,6 @@
     .sidebar {padding-top: 15px;}
     .sidebar a {font-size: 18px;}
   }
-
-/* #namepic {
-  width:145px;
-  padding-left:100px;
-  padding-right:20px;
-}
- */
-
 
 #about {
 font-size:20px;
