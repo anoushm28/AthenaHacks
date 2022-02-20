@@ -106,7 +106,7 @@ h2 {
 
 body {
   background-color: #FFFFFF;
-  font-family: Lucida;
+  font-family: Arial;
 }
 
 .banner {
@@ -137,7 +137,7 @@ body {
 }
    */
 
-#gamestitle {
+#title {
   padding-top:80px;
 }
 #title2 {
