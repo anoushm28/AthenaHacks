@@ -6,7 +6,7 @@
   z-index: 10000; /* Stay on top */
   top: 0;
   left: 0;
-  background-color: Orchid !important;
+  background-color: CornflowerBlue !important;
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 60px; /* Place content 60px from the top */
   transition: 0.5s; /* 0.5 second transition effect to slide in the sidebar */
@@ -25,7 +25,7 @@
 
 /* When you mouse over the navigation links, change their color */
 .sidebar a:hover {
-  color: DarkOrchid !important;
+  color: MidnightBlue !important;
 }
 
 /* Position and style the close button (top right corner) */
@@ -42,7 +42,7 @@
 .openbtn {
   font-size: 20px;
   cursor: pointer;
-  background-color: Orchid !important;
+  background-color: CornflowerBlue !important;
   color: White !important;
   padding: 10px 15px;
   border: none;
@@ -51,7 +51,7 @@
 }
 
 .openbtn:hover {
-  background-color: DarkOrchid !important;
+  background-color: MidnightBlue !important;
 }
 
 
@@ -95,8 +95,8 @@ height: 400px;
 
 h2 {
   text-align:center;
-  font-family:Lucida;
-  color:darkorchid;
+  font-family:Sans-serif;
+  color:MidnightBlue;
   font-size: 45pt;
   margin:auto;
 }
@@ -105,8 +105,8 @@ h2 {
 
 #description {
   text-align:center;
-  font-family:Lucida;
-  color:orchid;
+  font-family:Sans-serif;
+  color:CornflowerBlue;
   font-size:25px;
   margin:auto;
   padding-top:19px;
@@ -138,7 +138,7 @@ h2 {
 
 
 button {
-    background-color: DarkOrchid;
+    background-color: MidnightBlue;
     border: none;
     color: white;
     padding: 15px 25px;
@@ -152,5 +152,5 @@ textarea {
   margin-left: auto;
   margin-right: auto;
   font-size:15pt;
-  font-family:Lucida;
+  font-family:Sans-serif;
 }
