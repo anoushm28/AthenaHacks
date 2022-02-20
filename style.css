@@ -134,7 +134,7 @@
   }
 
 #about {
-font-size:20px;
+font-size:30px;
 width:80%;
 
 }
@@ -142,7 +142,7 @@ width:80%;
 #hackers {
 
 width:80%;
-font-size: 20px;
+font-size: 30px;
 
 }
 
@@ -162,14 +162,3 @@ font-size: 20px;
   flex-wrap: wrap;
 }
 
-h1 {
-  font-size: 80px;
-  text-align: center;
-  color: White;
-  padding: 80;
-}
-
-h2 {
-  text-size:30px;
-  text-align:center;
-}
