@@ -164,8 +164,10 @@ font-size: 20px;
 }
 
 h1 {
-  text-size: 50px;
+  font-size: 80px;
   text-align: center;
+  color: White;
+  padding: 80
 }
 
 h2 {
