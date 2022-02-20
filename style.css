@@ -153,14 +153,6 @@ width:80%;
 font-size: 20px;
 
 }
-#dstress {
-  padding-top:0px;
-  padding-bottom:30px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 300px;
-}
 
 
 .row {
@@ -169,6 +161,11 @@ font-size: 20px;
   flex-direction: row;
   justify-content:space-evenly;
   flex-wrap: wrap;
+}
+
+h1 {
+  text-size: 50px;
+  text-align: center;
 }
 
 h2 {
