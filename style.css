@@ -41,7 +41,7 @@
     background-position: center;
 
     margin: -70px -20 0 -20;
-    padding: 90% 0 0 0;
+    padding: 50% 0 0 0;
 }
 
 
@@ -55,7 +55,7 @@
   }
 
   .maintext {
-    padding-top: 400px;
+    padding-top: 10px;
     color: MidnightBlue;
     font-family: Sans-serif;
     font-size: 20px;
