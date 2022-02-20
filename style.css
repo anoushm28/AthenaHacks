@@ -57,17 +57,11 @@
   .maintext {
     padding-top: 10px;
     color: MidnightBlue;
-    font-family: Sans-serif;
-    font-size: 20px;
+    font-family: Arial;
+    font-size: 15px;
     text-align:center;
     margin:auto;
   }
-
-
-
-/*   .name {
-    font-size:30px;
-  } */
 
   /* The sidebar menu */
   .sidebar {
@@ -148,7 +142,7 @@
 
 
 #about {
-font-size:30px;
+font-size:15px;
 width:80%;
 
 }
@@ -156,7 +150,7 @@ width:80%;
 #creators {
 
 width:80%;
-font-size: 30px;
+font-size: 15px;
 
 }
 #dstress {
@@ -167,10 +161,7 @@ font-size: 30px;
   margin-right: auto;
   width: 300px;
 }
-#collage {
-  width: 100%
 
-}
 
 .row {
   
@@ -178,12 +169,6 @@ font-size: 30px;
   flex-direction: row;
   justify-content:space-evenly;
   flex-wrap: wrap;
-}
-
-
-#collageDescription {
-  padding-top:100px;
-  font-size:30px;
 }
 
 h2 {
