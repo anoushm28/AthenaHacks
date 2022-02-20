@@ -6,27 +6,10 @@
 
   }
 
-/*   .banner {
-
-    position: absolute;
-    height: 100%;
-    top: -20px;
-    left: 0px;
-    right: 0px;
-    text-align: center;
-    opacity: 0.8;
-
-    max-width: 100%;
-    margin: 0;
-    overflow:hidden;
-  }
-
- */
-
 
 #g1 {
 
-  width: 500px;
+  width: 800px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -36,7 +19,7 @@
 
 #g2 {
 
-  width: 500px;
+  width: 800px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -45,7 +28,7 @@
 }
 
 #g3 {
-  width:500px;
+  width:800px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -76,8 +59,7 @@ h4 {
   color:DarkSeaGreen;
   font-family:Arial;
   font-size:18px;
-  font-weight:thin;
-  max-width: 750px;
+  max-width: 500px;
   min-width:250px;
   margin: auto;
 
