@@ -85,9 +85,9 @@
 }
 
 h2 {
-  padding-top:50px;
+  padding-top:30px;
   text-align:center;
-  color:DarkSlateGreen;
+  color:SlateGreen;
   font-family:TimesNewRoman;
   font-size:80px;
 }
@@ -112,15 +112,6 @@ h4 {
   min-width:250px;
   margin: auto;
   
-/*   color:SandyBrown !important;
-  font-family:Lucida !important;
-  font-size:25px !important;
-  font-weight:normal;
-  max-width: 450px;
-  min-width: 300px;
-  width: 100%;
-  padding: 20px;
-  margin: auto; */
 
 }
 
