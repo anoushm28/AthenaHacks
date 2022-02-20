@@ -6,7 +6,7 @@
 
   }
 
-  .banner {
+/*   .banner {
 
     position: absolute;
     height: 100%;
@@ -21,7 +21,7 @@
     overflow:hidden;
   }
 
-
+ */
 
 
 #cloud {
@@ -52,7 +52,7 @@
   padding-top: 100px;
 
 }
-
+/* 
 #shadow {
   width:500px;
   display: block;
@@ -78,7 +78,7 @@
 
 
   padding-top: 100px;
-
+ */
 }
 
 h2 {
