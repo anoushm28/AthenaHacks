@@ -35,7 +35,7 @@
 
 
 h2 {
-  padding-top:30px;
+  padding-top:20px;
   text-align:center;
   color: DarkGreen;
   font-family:TIMESNEWROMAN;
@@ -46,9 +46,7 @@ h3 {
   text-align:center;
   color:MidnightBlue;
   font-family:Arial;
-  text-decoration-thickness: 10%;
   font-size:25px;
-  padding-bottom: 10px;
 }
 
 h4 {
@@ -56,16 +54,13 @@ h4 {
   color:DarkSeaGreen;
   font-family:Arial;
   font-size:18px;
-  text-decoration-thickness: 10%;
   max-width: 500px;
   min-width:250px;
   margin: auto;
-  padding-bottom: 30px;
-
+  padding-bottom: 10px;
+  font-weight: lighter;
 
 }
-
-
 
 
 
