@@ -81,18 +81,18 @@
 }
 
 h2 {
-  padding-top:320px;
+  padding-top:50px;
   text-align:center;
-  color:Peru;
-  font-family:Lucida;
-  font-size:45px;
+  color:White;
+  font-family:TimesNewRoman;
+  font-size:80px;
 }
 
 h3 {
   text-align:center;
   
-  color:Peru;
-  font-family:Lucida;
+  color:MidnightBlue;
+  font-family:Arian;
   font-size:25px;
   font-weight:bolder;
 }
@@ -100,8 +100,8 @@ h3 {
 h4 {
   text-align:center;
 
-  color:SandyBrown;
-  font-family:Lucida;
+  color:DarkSeaGreen;
+  font-family:Arial;
   font-size:24px;
   font-weight:normal;
   max-width: 750px;
