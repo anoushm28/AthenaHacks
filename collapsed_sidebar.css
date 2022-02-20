@@ -16,7 +16,7 @@
 .sidebar a {
   padding: 8px 8px 8px 32px;
   text-decoration: none;
-  font: Arial;
+  font-family: Arial;
   font-size: 25px;
   color: White;
   display: block;
